@@ -1,0 +1,149 @@
+Script started on Mon Apr 17 18:43:09 2023
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jveronikakan@MacBook-Air-Veronika дз2 % [K[?2004hnnode script[?2004l
+/Users/veronikakan/courses/занятия js/дз2/script.js:29
+let str = ‘LIGHTCODE PROGRAMMING’
+          
+
+SyntaxError: Invalid or unexpected token
+[90m    at internalCompileFunction (node:internal/vm:73:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1176:20)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1218:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1117:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:958:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.15.0
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jveronikakan@MacBook-Air-Veronika дз2 % [K[?2004hnode script[?2004l
+[ [32m'LIGHTCODE'[39m, [32m'PROGRAMMING'[39m ]
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jveronikakan@MacBook-Air-Veronika дз2 % [K[?2004hnode script[?2004l
+LIGHTCODE
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jveronikakan@MacBook-Air-Veronika дз2 % [K[?2004hnode script[?2004l
+[33m9[39m
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jveronikakan@MacBook-Air-Veronika дз2 % [K[?2004hnode script[?2004l
+/Users/veronikakan/courses/занятия js/дз2/script.js:33
+console.log(str.split(" ")str.toLowerCase());
+                         ^
+
+SyntaxError: missing ) after argument list
+[90m    at internalCompileFunction (node:internal/vm:73:18)[39m
+[90m    at wrapSafe (node:internal/modules/cjs/loader:1176:20)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1218:27)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1117:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:958:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.15.0
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jveronikakan@MacBook-Air-Veronika дз2 % [K[?2004hnode script[?2004l
+ужасно
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jveronikakan@MacBook-Air-Veronika дз2 % [K[?2004hnode script[?2004l
+МАКСИМАЛЬНО
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jveronikakan@MacBook-Air-Veronika дз2 % [K[?2004hnode script[?2004l
+мально Ужасн
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jveronikakan@MacBook-Air-Veronika дз2 % [K[?2004hnode script[?2004l
+/Users/veronikakan/courses/занятия js/дз2/script.js:44
+console.log(str.contact(str2));
+                ^
+
+TypeError: str.contact is not a function
+    at Object.<anonymous> [90m(/Users/veronikakan/courses/занятия js/дз2/[39mscript.js:44:17[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1254:14)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1117:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:958:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.15.0
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jveronikakan@MacBook-Air-Veronika дз2 % [K[?2004hnode script[?2004l
+МаксимальноУжасно
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jveronikakan@MacBook-Air-Veronika дз2 % [K[?2004hnode script[?2004l
+Максимально Ужасно
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jveronikakan@MacBook-Air-Veronika дз2 % [K[?2004hnode script[?2004l
+[33m12[39m
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jveronikakan@MacBook-Air-Veronika дз2 % [K[?2004hnode script[?2004l
+встречается менее одного раза
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jveronikakan@MacBook-Air-Veronika дз2 % [K[?2004hnode script[?2004l
+встречается более 1 раза
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jveronikakan@MacBook-Air-Veronika дз2 % [K[?2004hnode script[?2004l
+встречается более 1 раза
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jveronikakan@MacBook-Air-Veronika дз2 % [K[?2004hnode script[?2004l
+встречается менее одного раза
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jveronikakan@MacBook-Air-Veronika дз2 % [K[?2004hnode script[?2004l
+встречается более 1 раза
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jveronikakan@MacBook-Air-Veronika дз2 % [K[?2004hnode script[?2004l
+встречается более 1 раза
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jveronikakan@MacBook-Air-Veronika дз2 % [K[?2004hnode script[?2004l
+встречается менее одного раза
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jveronikakan@MacBook-Air-Veronika дз2 % [K[?2004hnode script[?2004l
+встречается более 1 раза
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jveronikakan@MacBook-Air-Veronika дз2 % [K[?2004hnode script[?2004l
+встречается более 1 раза
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jveronikakan@MacBook-Air-Veronika дз2 % [K[?2004hnode script[?2004l
+встречается менее одного раза
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jveronikakan@MacBook-Air-Veronika дз2 % [K[?2004hnode script[?2004l
+встречается менее одного раза
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jveronikakan@MacBook-Air-Veronika дз2 % [K[?2004hnode script[?2004l
+встречается менее одного раза
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jveronikakan@MacBook-Air-Veronika дз2 % [K[?2004hnode script[?2004l
+dfd
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jveronikakan@MacBook-Air-Veronika дз2 % [K[?2004hnode script[?2004l
+,jktt
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jveronikakan@MacBook-Air-Veronika дз2 % [K[?2004hnode script[?2004l
+,jktt
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jveronikakan@MacBook-Air-Veronika дз2 % [K[?2004hnode script[?2004l
+dfd
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jveronikakan@MacBook-Air-Veronika дз2 % [K[?2004hnode script[?2004l
+встречается более 1 раза
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jveronikakan@MacBook-Air-Veronika дз2 % [K[?2004hnode script[?2004l
+[33m1[39m
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jveronikakan@MacBook-Air-Veronika дз2 % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jveronikakan@MacBook-Air-Veronika дз2 % [K[?2004hnode script[?2004l
+[33m17[39m
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jveronikakan@MacBook-Air-Veronika дз2 % [K[?2004hnode script[?2004l
+/Users/veronikakan/courses/занятия js/дз2/script.js:38
+console.log(substr(4, 6));
+        ^
+
+ReferenceError: substr is not defined
+    at Object.<anonymous> [90m(/Users/veronikakan/courses/занятия js/дз2/[39mscript.js:38:9[90m)[39m
+[90m    at Module._compile (node:internal/modules/cjs/loader:1254:14)[39m
+[90m    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:1117:32)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:958:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m
+
+Node.js v18.15.0
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jveronikakan@MacBook-Air-Veronika дз2 % [K[?2004hnode script[?2004l
+bbb cc
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jveronikakan@MacBook-Air-Veronika дз2 % [K[?2004hnode script[?2004l
+bb
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jveronikakan@MacBook-Air-Veronika дз2 % [K[?2004hnode script[?2004l
+bbb
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jveronikakan@MacBook-Air-Veronika дз2 % [K[?2004hnode script[?2004l
+bb 
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jveronikakan@MacBook-Air-Veronika дз2 % [K[?2004hnode script[?2004l
+bbb
+
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jveronikakan@MacBook-Air-Veronika дз2 % [K[?2004hnode script[?2004l
+bb
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jveronikakan@MacBook-Air-Veronika дз2 % [K[?2004hnode script[?2004l
+
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jveronikakan@MacBook-Air-Veronika дз2 % [K[?2004hnode script[?2004l
+bbb
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jveronikakan@MacBook-Air-Veronika дз2 % [K[?2004hnode script[?2004l
+bbb
+aaa
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jveronikakan@MacBook-Air-Veronika дз2 % [K[?2004hnode script[?2004l
+bbb
+bbb
+bb
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jveronikakan@MacBook-Air-Veronika дз2 % [K[?2004hnode script[?2004l
+bbb
+bbb
+bbb
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jveronikakan@MacBook-Air-Veronika дз2 % [K[?2004h
